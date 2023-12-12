@@ -1,2 +1,2 @@
-# BluePrint App 
-Excel Data to BluePrint Map
+# Blueprint App 
+Excel Data to Blueprint Map
